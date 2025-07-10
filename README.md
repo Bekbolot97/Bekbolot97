@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hello, I'm Bekbolot
 
 I'm an aspiring **Java Developer** based in **Germany 🇩🇪**.  
