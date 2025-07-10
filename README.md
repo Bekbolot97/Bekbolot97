@@ -36,9 +36,6 @@ I'm actively developing my programming skills and working toward my first job in
 
 ## 📈 GitHub Stats
 
-![Bekbolot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bekbolot97&show_icons=true&theme=radical&locale=en)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bekbolot97&layout=compact&theme=radical)
-
 ---
 
 
