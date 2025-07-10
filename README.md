@@ -41,13 +41,8 @@ I'm actively developing my programming skills and working toward my first job in
 
 ---
 
-## 🏆 Achievements & Activity
-
-[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Bekbolot97&theme=gruvbox&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 📬 Contact Me
 
 - 📧 Email: bekbolot.namatov@gmail.com  
-- 💼 LinkedIn: *add your link here if you have one*  
+- 💼 LinkedIn:  https://www.linkedin.com/in/bekbolot-naamatov-997a882b0/
