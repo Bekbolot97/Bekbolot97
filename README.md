@@ -1,40 +1,28 @@
 ## Hi there 👋
 
-# 👋 Привет! Меня зовут Бекболот
-
-Я начинающий Java-разработчик, живу и учусь в Германии. Активно учусь и стремлюсь получить свою первую работу в сфере IT.
-
----
-
-### 🚀 Мои цели:
-- Стать Junior Java Developer в 2025 году
-- Улучшить уровень немецкого и английского
-- Развить навыки командной работы в реальных проектах
+# 👋 Привет, меня зовут Бекболот  
+Я начинающий **Java Developer**, живу и учусь в **Германии 🇩🇪**.  
+Моя цель — получить первую работу в сфере IT и развиваться как профессионал.
 
 ---
 
-### 🛠️ Технологии, которые изучаю:
-- Java SE / OOP / Collections
-- HTML, CSS, Git, GitHub
-- IntelliJ IDEA, Maven
-- Jira, Confluence
+## 🛠️ Технологии и инструменты
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
-### 📂 Проекты:
-- [MyJavaRushTasks](https://github.com/Bekbolot97/MyJavaRushTasks) – практические задачи с JavaRush
-- [project](https://github.com/Bekbolot97/project) – пробный репозиторий
+## 📈 GitHub Статистика
+
+![Bekbolot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bekbolot97&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bekbolot97&layout=compact&theme=radical)
 
 ---
 
-### 🧠 Языки:
-- 🇩🇪 Немецкий — B2
-- 🇬🇧 Английский — A1
-- 🇷🇺 Русский, 🇰🇬 Кыргызский — свободно
-
----
-
-📫 Связь:  
-*(если хочешь, добавь LinkedIn или email)*
-
-> Я каждый день делаю шаг к цели. Спасибо за визит на мой GitHub!
+## 📬 Контакты
+- 📧 Email: bekbolot.namatov@gmail.com
+- 💼 LinkedIn: [вставь ссылку]
+- 🌍 Языки: 🇩🇪 B2 | 🇬🇧 A1 | 🇰🇬 | 🇷🇺
