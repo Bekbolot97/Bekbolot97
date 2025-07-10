@@ -40,6 +40,3 @@ I'm actively developing my programming skills and working toward my first job in
 
 
 ## 📬 Contact Me
-
-- 📧 Email: bekbolot.namatov@gmail.com  
-- 💼 LinkedIn:  https://www.linkedin.com/in/bekbolot-naamatov-997a882b0/
