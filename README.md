@@ -37,6 +37,3 @@ I'm actively developing my programming skills and working toward my first job in
 ## 📈 GitHub Stats
 
 ---
-
-
-## 📬 Contact Me
